@@ -4237,6 +4237,16 @@ layout: default
 |**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595](http://arxiv.org/abs/2502.09595)|null|
 |**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587](http://arxiv.org/abs/2502.09587)|null|
 |**2025-02-13**|**Learning to Coordinate with Experts**|Mohamad H. Danesh et.al.|[2502.09583](http://arxiv.org/abs/2502.09583)|null|
+|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
+|**2025-02-13**|**S $^2$ -Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation**|Quantao Yang et.al.|[2502.09389](http://arxiv.org/abs/2502.09389)|null|
+|**2025-02-13**|**MTDP: Modulated Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2502.09029](http://arxiv.org/abs/2502.09029)|null|
+|**2025-02-12**|**MuJoCo Playground**|Kevin Zakka et.al.|[2502.08844](http://arxiv.org/abs/2502.08844)|null|
+|**2025-02-12**|**Acoustic Wave Manipulation Through Sparse Robotic Actuation**|Tristan Shah et.al.|[2502.08784](http://arxiv.org/abs/2502.08784)|null|
+|**2025-02-12**|**Signed, Sealed,... Confused: Exploring the Understandability and Severity of Policy Documents**|Shikha Soneji et.al.|[2502.08743](http://arxiv.org/abs/2502.08743)|null|
+|**2025-02-13**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
+|**2025-02-12**|**A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards**|Shivansh Patel et.al.|[2502.08643](http://arxiv.org/abs/2502.08643)|null|
+|**2025-02-12**|**The Role of Conceptual Problem Solving in Learning Physics: A Study in a General Relativity University Course**|Matteo Tuveri et.al.|[2502.08564](http://arxiv.org/abs/2502.08564)|null|
+|**2025-02-12**|**Learning to Group and Grasp Multiple Objects**|Takahiro Yonemaru et.al.|[2502.08452](http://arxiv.org/abs/2502.08452)|null|
 
 ## DA
 
@@ -4297,6 +4307,36 @@ layout: default
 |**2025-02-13**|**MDCrow: Automating Molecular Dynamics Workflows with Large Language Models**|Quintina Campbell et.al.|[2502.09565](http://arxiv.org/abs/2502.09565)|null|
 |**2025-02-13**|**Improve LLM-based Automatic Essay Scoring with Linguistic Features**|Zhaoyi Joey Hou et.al.|[2502.09497](http://arxiv.org/abs/2502.09497)|null|
 |**2025-02-13**|**Objective quantification of mood states using large language models**|Jakub Onysk et.al.|[2502.09487](http://arxiv.org/abs/2502.09487)|null|
+
+## Causal Learning
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Robot Pouring: Identifying Causes of Spillage and Selecting Alternative Action Parameters Using Probabilistic Actual Causation**|Jaime Maldonado et.al.|[2502.09395](http://arxiv.org/abs/2502.09395)|null|
+|**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
+|**2025-02-12**|**Tutorial for Surrogate Endpoint Validation Using Joint modeling and Mediation Analysis**|Quentin Le Coent et.al.|[2502.08443](http://arxiv.org/abs/2502.08443)|null|
+|**2025-02-12**|**Individualised Treatment Effects Estimation with Composite Treatments and Composite Outcomes**|Vinod Kumar Chauhan et.al.|[2502.08282](http://arxiv.org/abs/2502.08282)|null|
+|**2025-02-12**|**ACCESS : A Benchmark for Abstract Causal Event Discovery and Reasoning**|Vy Vo et.al.|[2502.08148](http://arxiv.org/abs/2502.08148)|null|
+|**2025-02-11**|**Simulating Longitudinal Data from Marginal Structural Models**|Xi Lin et.al.|[2502.07991](http://arxiv.org/abs/2502.07991)|null|
+|**2025-02-11**|**The Observational Partial Order of Causal Structures with Latent Variables**|Marina Maciel Ansanelli et.al.|[2502.07891](http://arxiv.org/abs/2502.07891)|null|
+|**2025-02-11**|**SNAP: Sequential Non-Ancestor Pruning for Targeted Causal Effect Estimation With an Unknown Graph**|Mátyás Schubert et.al.|[2502.07857](http://arxiv.org/abs/2502.07857)|null|
+|**2025-02-11**|**Causal Additive Models with Unobserved Causal Paths and Backdoor Paths**|Thong Pham et.al.|[2502.07646](http://arxiv.org/abs/2502.07646)|null|
+|**2025-02-11**|**Causal-Informed Contrastive Learning: Towards Bias-Resilient Pre-training under Concept Drift**|Xiaoyu Yang et.al.|[2502.07620](http://arxiv.org/abs/2502.07620)|null|
+
+## Adversarial
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Wasserstein distributional adversarial training for deep neural networks**|Xingjian Bai et.al.|[2502.09352](http://arxiv.org/abs/2502.09352)|null|
+|**2025-02-13**|**AI Safety for Everyone**|Balint Gyevnar et.al.|[2502.09288](http://arxiv.org/abs/2502.09288)|null|
+|**2025-02-13**|**On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms**|Luke E. Richards et.al.|[2502.08932](http://arxiv.org/abs/2502.08932)|null|
+|**2025-02-12**|**General Coded Computing: Adversarial Settings**|Parsa Moradi et.al.|[2502.08058](http://arxiv.org/abs/2502.08058)|null|
+|**2025-02-08**|**Unpaired Image Dehazing via Kolmogorov-Arnold Transformation of Latent Features**|Le-Anh Tran et.al.|[2502.07812](http://arxiv.org/abs/2502.07812)|null|
+|**2025-02-11**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
+|**2025-02-11**|**Simplifying Adversarially Robust PAC Learning with Tolerance**|Hassan Ashtiani et.al.|[2502.07232](http://arxiv.org/abs/2502.07232)|null|
+|**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225](http://arxiv.org/abs/2502.07225)|**[link](https://github.com/senp98/cat)**|
+|**2025-02-08**|**A Survey on Explainable Deep Reinforcement Learning**|Zelei Cheng et.al.|[2502.06869](http://arxiv.org/abs/2502.06869)|null|
+|**2025-02-09**|**GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation**|Danny Wang et.al.|[2502.05780](http://arxiv.org/abs/2502.05780)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
