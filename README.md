@@ -1,7 +1,7 @@
 ## Updated on 2025.02.17
-> Usage instructions: [here](./docs/README.md#usage)
+<!-- > Usage instructions: [here](./docs/README.md#usage) -->
 
-<details>
+<!-- <details> -->
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#robotics>Robotics</a></li>
@@ -12,7 +12,7 @@
     <li><a href=#causal-learning>Causal Learning</a></li>
     <li><a href=#adversarial>Adversarial</a></li>
   </ol>
-</details>
+<!-- </details> -->
 
 ## Robotics
 
