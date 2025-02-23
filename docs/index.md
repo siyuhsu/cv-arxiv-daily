@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.21
+## Updated on 2025.02.23
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -4225,13 +4225,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
+|**2025-02-19**|**EfficientPose 6D: Scalable and Efficient 6D Object Pose Estimation**|Zixuan Fang et.al.|[2502.14061](http://arxiv.org/abs/2502.14061)|null|
 |**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
 |**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
 |**2025-02-19**|**Model Evolution Framework with Genetic Algorithm for Multi-Task Reinforcement Learning**|Yan Yu et.al.|[2502.13569](http://arxiv.org/abs/2502.13569)|null|
 |**2025-02-19**|**MILE: Model-based Intervention Learning**|Yigit Korkmaz et.al.|[2502.13519](http://arxiv.org/abs/2502.13519)|null|
-|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
 |**2025-02-19**|**Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model**|Dongki Kim et.al.|[2502.13449](http://arxiv.org/abs/2502.13449)|null|
-|**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|null|
+|**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|**[link](https://github.com/thieso/boundplanner)**|
 |**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143](http://arxiv.org/abs/2502.13143)|null|
 |**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130](http://arxiv.org/abs/2502.13130)|null|
 |**2025-02-18**|**Learning-based Dynamic Robot-to-Human Handover**|Hyeonseong Kim et.al.|[2502.12602](http://arxiv.org/abs/2502.12602)|null|
@@ -4270,8 +4272,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
+|**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
+|**2025-02-20**|**English Please: Evaluating Machine Translation for Multilingual Bug Reports**|Avinash Patil et.al.|[2502.14338](http://arxiv.org/abs/2502.14338)|**[link](https://github.com/av9ash/gitbugs/blob/main/multilingual/)**|
+|**2025-02-20**|**Asymmetric Co-Training for Source-Free Few-Shot Domain Adaptation**|Gengxu Li et.al.|[2502.14214](http://arxiv.org/abs/2502.14214)|null|
+|**2025-02-20**|**Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring**|Hu Gao et.al.|[2502.14209](http://arxiv.org/abs/2502.14209)|null|
 |**2025-02-19**|**A dynamic domain semi-Lagrangian method for stochastic Vlasov equations**|Jianbo Cui et.al.|[2502.13700](http://arxiv.org/abs/2502.13700)|null|
-|**2025-02-19**|**Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective**|Yuan Yao et.al.|[2502.13573](http://arxiv.org/abs/2502.13573)|null|
+|**2025-02-19**|**Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective**|Yuan Yao et.al.|[2502.13573](http://arxiv.org/abs/2502.13573)|**[link](https://github.com/yyyaoyuan/shda)**|
 |**2025-02-18**|**Improving Multi-turn Task Completion in Task-Oriented Dialog Systems via Prompt Chaining and Fine-Grained Feedback**|Moghis Fereidouni et.al.|[2502.13298](http://arxiv.org/abs/2502.13298)|null|
 |**2025-02-17**|**Reinforced Information Retrieval**|Chaofan Li et.al.|[2502.11562](http://arxiv.org/abs/2502.11562)|null|
 |**2025-02-17**|**PrivilegedDreamer: Explicit Imagination of Privileged Information for Rapid Adaptation of Learned Policies**|Morgan Byrd et.al.|[2502.11377](http://arxiv.org/abs/2502.11377)|null|
@@ -4298,6 +4305,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**CER: Confidence Enhanced Reasoning in LLMs**|Ali Razghandi et.al.|[2502.14634](http://arxiv.org/abs/2502.14634)|null|
+|**2025-02-20**|**A Similarity Paradigm Through Textual Regularization Without Forgetting**|Fangming Cui et.al.|[2502.14376](http://arxiv.org/abs/2502.14376)|null|
+|**2025-02-20**|**Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models**|Michihiro Yasunaga et.al.|[2502.14191](http://arxiv.org/abs/2502.14191)|null|
+|**2025-02-19**|**Smaller But Better: Unifying Layout Generation with Smaller Large Language Models**|Peirong Zhang et.al.|[2502.14005](http://arxiv.org/abs/2502.14005)|null|
 |**2025-02-18**|**Evaluating and Enhancing Out-of-Domain Generalization of Task-Oriented Dialog Systems for Task Completion without Turn-level Dialog Annotations**|Adib Mosharrof et.al.|[2502.13310](http://arxiv.org/abs/2502.13310)|null|
 |**2025-02-18**|**Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection**|Jingbiao Mei et.al.|[2502.13061](http://arxiv.org/abs/2502.13061)|null|
 |**2025-02-17**|**Can Language Models Learn Typologically Implausible Languages?**|Tianyang Xu et.al.|[2502.12317](http://arxiv.org/abs/2502.12317)|null|
@@ -4319,6 +4330,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**|Yue Yang et.al.|[2502.14846](http://arxiv.org/abs/2502.14846)|null|
+|**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834](http://arxiv.org/abs/2502.14834)|null|
+|**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786](http://arxiv.org/abs/2502.14786)|**[link](https://github.com/google-research/big_vision)**|
+|**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780](http://arxiv.org/abs/2502.14780)|null|
+|**2025-02-20**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|null|
+|**2025-02-20**|**NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization**|Zheyuan Zhang et.al.|[2502.14638](http://arxiv.org/abs/2502.14638)|null|
+|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|null|
+|**2025-02-20**|**PLPHP: Per-Layer Per-Head Vision Token Pruning for Efficient Large Vision-Language Models**|Yu Meng et.al.|[2502.14504](http://arxiv.org/abs/2502.14504)|null|
+|**2025-02-20**|**How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation**|Zhuohang Long et.al.|[2502.14486](http://arxiv.org/abs/2502.14486)|null|
+|**2025-02-20**|**Evaluating Precise Geolocation Inference Capabilities of Vision Language Models**|Neel Jay et.al.|[2502.14412](http://arxiv.org/abs/2502.14412)|null|
 |**2025-02-19**|**Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images**|Shengguang Wu et.al.|[2502.13928](http://arxiv.org/abs/2502.13928)|null|
 |**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
 |**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|**[link](https://github.com/basics-lab/spectral-explain)**|
