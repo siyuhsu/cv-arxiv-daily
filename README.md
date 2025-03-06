@@ -1,4 +1,4 @@
-## Updated on 2025.03.03
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -828,7 +828,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## SFM
 
@@ -1169,7 +1169,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2219,7 +2219,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2500,7 +2500,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2795,7 +2795,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## NeRF
 
@@ -4272,12 +4272,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Robotics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation**|Michal Nazarczuk et.al.|[2503.02834](http://arxiv.org/abs/2503.02834)|null|
+|**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
+|**2025-03-04**|**Velocity-free task-space regulator for robot manipulators with external disturbances**|Haiwen Wu et.al.|[2503.02634](http://arxiv.org/abs/2503.02634)|null|
+|**2025-03-04**|**Learning Dexterous In-Hand Manipulation with Multifingered Hands via Visuomotor Diffusion**|Piotr Koczy et.al.|[2503.02587](http://arxiv.org/abs/2503.02587)|null|
+|**2025-03-04**|**RGBSQGrasp: Inferring Local Superquadric Primitives from Single RGB Image for Graspability-Aware Bin Picking**|Yifeng Xu et.al.|[2503.02387](http://arxiv.org/abs/2503.02387)|null|
+|**2025-03-04**|**Teaching Metric Distance to Autoregressive Multimodal Foundational Models**|Jiwan Chung et.al.|[2503.02379](http://arxiv.org/abs/2503.02379)|null|
+|**2025-03-04**|**MedEthicEval: Evaluating Large Language Models Based on Chinese Medical Ethics**|Haoan Jin et.al.|[2503.02374](http://arxiv.org/abs/2503.02374)|null|
+|**2025-03-04**|**MindSimulator: Exploring Brain Concept Localization via Synthetic FMRI**|Guangyin Bao et.al.|[2503.02351](http://arxiv.org/abs/2503.02351)|null|
+|**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Wenxuan Song et.al.|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
+|**2025-03-04**|**Active Robot Curriculum Learning from Online Human Demonstrations**|Muhan Hou et.al.|[2503.02277](http://arxiv.org/abs/2503.02277)|null|
 |**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
 |**2025-02-27**|**Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**|Siddhant Haldar et.al.|[2502.20391](http://arxiv.org/abs/2502.20391)|null|
 |**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
@@ -4299,12 +4309,22 @@
 |**2025-02-23**|**NatSGLD: A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in Natural Human-Robot Interaction**|Snehesh Shrestha et.al.|[2502.16718](http://arxiv.org/abs/2502.16718)|**[link](https://github.com/sneheshs/natsgld)**|
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Robust Multi-Source Domain Adaptation under Label Shift**|Congbin Xu et.al.|[2503.02506](http://arxiv.org/abs/2503.02506)|null|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
+|**2025-03-03**|**Robustness to Geographic Distribution Shift using Location Encoders**|Ruth Crasto et.al.|[2503.02036](http://arxiv.org/abs/2503.02036)|null|
+|**2025-03-03**|**Generate, Discriminate, Evolve: Enhancing Context Faithfulness via Fine-Grained Sentence-Level Self-Evolution**|Kun Li et.al.|[2503.01695](http://arxiv.org/abs/2503.01695)|null|
+|**2025-03-03**|**Leveraging LLMs for Mental Health: Detection and Recommendations from Social Discussions**|Vaishali Aggarwal et.al.|[2503.01442](http://arxiv.org/abs/2503.01442)|null|
+|**2025-03-02**|**MFM-DA: Instance-Aware Adaptor and Hierarchical Alignment for Efficient Domain Adaptation in Medical Foundation Models**|Jia-Xuan Jiang et.al.|[2503.00802](http://arxiv.org/abs/2503.00802)|null|
+|**2025-03-01**|**Shaping Laser Pulses with Reinforcement Learning**|Francesco Capuano et.al.|[2503.00499](http://arxiv.org/abs/2503.00499)|null|
+|**2025-03-01**|**A Unified Framework for Heterogeneous Semi-supervised Learning**|Marzi Heidari et.al.|[2503.00286](http://arxiv.org/abs/2503.00286)|null|
+|**2025-02-28**|**Are foundation models useful feature extractors for electroencephalography analysis?**|Özgün Turgut et.al.|[2502.21086](http://arxiv.org/abs/2502.21086)|null|
+|**2025-02-28**|**When Unsupervised Domain Adaptation meets One-class Anomaly Detection: Addressing the Two-fold Unsupervised Curse by Leveraging Anomaly Scarcity**|Nesryne Mejri et.al.|[2502.21022](http://arxiv.org/abs/2502.21022)|null|
 |**2025-02-27**|**UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook**|Yidi Jiang et.al.|[2502.20067](http://arxiv.org/abs/2502.20067)|null|
 |**2025-02-27**|**R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning**|Minggui He et.al.|[2502.19735](http://arxiv.org/abs/2502.19735)|null|
 |**2025-02-26**|**Model Adaptation: Unsupervised Domain Adaptation without Source Data**|Rui Li et.al.|[2502.19316](http://arxiv.org/abs/2502.19316)|null|
@@ -4322,15 +4342,22 @@
 |**2025-02-24**|**Image Translation-Based Unsupervised Cross-Modality Domain Adaptation for Medical Image Segmentation**|Tao Yang et.al.|[2502.15193](http://arxiv.org/abs/2502.15193)|null|
 |**2025-02-21**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Generalization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
+|**2025-03-03**|**Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**|Yiming Wang et.al.|[2503.01422](http://arxiv.org/abs/2503.01422)|null|
+|**2025-03-03**|**Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting**|Xiaobin Hong et.al.|[2503.01157](http://arxiv.org/abs/2503.01157)|null|
+|**2025-03-02**|**PINN-MG: A physics-informed neural network for mesh generation**|Min Wang et.al.|[2503.00814](http://arxiv.org/abs/2503.00814)|null|
+|**2025-03-01**|**DADM: Dual Alignment of Domain and Modality for Face Anti-spoofing**|Jingyi Yang et.al.|[2503.00429](http://arxiv.org/abs/2503.00429)|null|
+|**2025-02-28**|**Restricted type estimates on the Bergman projection of some singular domains**|Debraj Chakrabarti et.al.|[2502.21071](http://arxiv.org/abs/2502.21071)|null|
+|**2025-02-28**|**Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision**|Dawei Zhu et.al.|[2502.20790](http://arxiv.org/abs/2502.20790)|null|
 |**2025-02-27**|**Enhancing 3D Gaze Estimation in the Wild using Weak Supervision with Gaze Following Labels**|Pierre Vuillecard et.al.|[2502.20249](http://arxiv.org/abs/2502.20249)|null|
-|**2025-02-27**|**Gradient-Guided Annealing for Domain Generalization**|Aristotelis Ballas et.al.|[2502.20162](http://arxiv.org/abs/2502.20162)|null|
-|**2025-02-27**|**Robust sensitivity control in digital pathology via tile score distribution matching**|Arthur Pignet et.al.|[2502.20144](http://arxiv.org/abs/2502.20144)|null|
+|**2025-03-03**|**Gradient-Guided Annealing for Domain Generalization**|Aristotelis Ballas et.al.|[2502.20162](http://arxiv.org/abs/2502.20162)|**[link](https://github.com/aristotelisballas/gga)**|
+|**2025-02-28**|**Robust sensitivity control in digital pathology via tile score distribution matching**|Arthur Pignet et.al.|[2502.20144](http://arxiv.org/abs/2502.20144)|null|
 |**2025-02-27**|**Teaching Dense Retrieval Models to Specialize with Listwise Distillation and LLM Data Augmentation**|Manveer Singh Tamber et.al.|[2502.19712](http://arxiv.org/abs/2502.19712)|null|
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
@@ -4347,12 +4374,22 @@
 |**2025-02-17**|**Can Language Models Learn Typologically Implausible Languages?**|Tianyang Xu et.al.|[2502.12317](http://arxiv.org/abs/2502.12317)|null|
 |**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532](http://arxiv.org/abs/2502.11532)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**"What If Smart Homes Could See Our Homes?": Exploring DIY Smart Home Building Experiences with VLM-Based Camera Sensors**|Sojeong Yun et.al.|[2503.02816](http://arxiv.org/abs/2503.02816)|null|
+|**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
+|**2025-03-04**|**ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment**|Faryal Batool et.al.|[2503.02723](http://arxiv.org/abs/2503.02723)|null|
+|**2025-03-04**|**MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**|Ege Özsoy et.al.|[2503.02579](http://arxiv.org/abs/2503.02579)|null|
+|**2025-03-04**|**Vision-Language Model IP Protection via Prompt-based Learning**|Lianyu Wang et.al.|[2503.02393](http://arxiv.org/abs/2503.02393)|null|
+|**2025-03-04**|**Are Large Vision Language Models Good Game Players?**|Xinyu Wang et.al.|[2503.02358](http://arxiv.org/abs/2503.02358)|null|
+|**2025-03-04**|**BiasICL: In-Context Learning and Demographic Biases of Vision Language Models**|Sonnet Xu et.al.|[2503.02334](http://arxiv.org/abs/2503.02334)|null|
+|**2025-03-04**|**WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation**|Dujun Nie et.al.|[2503.02247](http://arxiv.org/abs/2503.02247)|null|
+|**2025-03-04**|**Language-Guided Visual Perception Disentanglement for Image Quality Assessment and Conditional Image Generation**|Zhichao Yang et.al.|[2503.02206](http://arxiv.org/abs/2503.02206)|null|
 |**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292](http://arxiv.org/abs/2502.20292)|null|
 |**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
 |**2025-02-27**|**Vision-Encoders (Already) Know What They See: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore**|Hongseok Oh et.al.|[2502.20034](http://arxiv.org/abs/2502.20034)|null|
@@ -4374,12 +4411,22 @@
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
 |**2025-02-23**|**Can Large Vision-Language Models Detect Images Copyright Infringement from GenAI?**|Qipan Xu et.al.|[2502.16618](http://arxiv.org/abs/2502.16618)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
+|**2025-03-04**|**AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**|Songming Zhang et.al.|[2503.02832](http://arxiv.org/abs/2503.02832)|null|
+|**2025-03-04**|**IterPref: Focal Preference Learning for Code Generation via Iterative Debugging**|Jie Wu et.al.|[2503.02783](http://arxiv.org/abs/2503.02783)|null|
+|**2025-03-04**|**Iterative Value Function Optimization for Guided Decoding**|Zhenhua Liu et.al.|[2503.02368](http://arxiv.org/abs/2503.02368)|null|
+|**2025-03-04**|**Adaptive Traffic Signal Control based on Multi-Agent Reinforcement Learning. Case Study on a simulated real-world corridor**|Dickness Kakitahi Kwesiga et.al.|[2503.02189](http://arxiv.org/abs/2503.02189)|null|
+|**2025-03-03**|**Visual-RFT: Visual Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2503.01785](http://arxiv.org/abs/2503.01785)|**[link](https://github.com/liuziyu77/visual-rft)**|
+|**2025-03-03**|**CoPL: Collaborative Preference Learning for Personalizing LLMs**|Youngbin Choi et.al.|[2503.01658](http://arxiv.org/abs/2503.01658)|null|
+|**2025-03-03**|**In-context Learning vs. Instruction Tuning: The Case of Small and Multilingual Language Models**|David Ponce et.al.|[2503.01611](http://arxiv.org/abs/2503.01611)|null|
+|**2025-03-03**|**What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret**|Yufeng Yuan et.al.|[2503.01491](http://arxiv.org/abs/2503.01491)|null|
+|**2025-03-03**|**Towards Widening The Distillation Bottleneck for Reasoning Models**|Huifeng Yin et.al.|[2503.01461](http://arxiv.org/abs/2503.01461)|null|
 |**2025-02-27**|**SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning**|Zexiong Ma et.al.|[2502.20127](http://arxiv.org/abs/2502.20127)|null|
 |**2025-02-27**|**Developmental Support Approach to AI's Autonomous Growth: Toward the Realization of a Mutually Beneficial Stage Through Experiential Learning**|Taichiro Endo et.al.|[2502.19798](http://arxiv.org/abs/2502.19798)|null|
 |**2025-02-27**|**Preference Learning Unlocks LLMs' Psycho-Counseling Skills**|Mian Zhang et.al.|[2502.19731](http://arxiv.org/abs/2502.19731)|null|
@@ -4401,12 +4448,22 @@
 |**2025-02-21**|**Rapid Online Learning of Hip Exoskeleton Assistance Preferences**|Giulia Ramella et.al.|[2502.15366](http://arxiv.org/abs/2502.15366)|null|
 |**2025-02-24**|**Projection Optimization: A General Framework for Multi-Objective and Multi-Group RLHF**|Nuoya Xiong et.al.|[2502.15145](http://arxiv.org/abs/2502.15145)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## Calibration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling**|Hang Zheng et.al.|[2503.02233](http://arxiv.org/abs/2503.02233)|null|
+|**2025-03-03**|**Data Augmentation for NeRFs in the Low Data Limit**|Ayush Gaggar et.al.|[2503.02092](http://arxiv.org/abs/2503.02092)|null|
+|**2025-03-04**|**Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints**|Sam Bowyer et.al.|[2503.01747](http://arxiv.org/abs/2503.01747)|null|
+|**2025-03-03**|**When an LLM is apprehensive about its answers -- and when its uncertainty is justified**|Petr Sychev et.al.|[2503.01688](http://arxiv.org/abs/2503.01688)|null|
+|**2025-03-03**|**MapExRL: Human-Inspired Indoor Exploration with Predicted Environment Context and Reinforcement Learning**|Narek Harutyunyan et.al.|[2503.01548](http://arxiv.org/abs/2503.01548)|null|
+|**2025-03-02**|**Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo**|Hyunsu Kim et.al.|[2503.00699](http://arxiv.org/abs/2503.00699)|null|
+|**2025-03-01**|**Bayesian Active Learning for Multi-Criteria Comparative Judgement in Educational Assessment**|Andy Gray et.al.|[2503.00479](http://arxiv.org/abs/2503.00479)|null|
+|**2025-03-01**|**MCNet: Monotonic Calibration Networks for Expressive Uncertainty Calibration in Online Advertising**|Quanyu Dai et.al.|[2503.00334](http://arxiv.org/abs/2503.00334)|null|
+|**2025-02-28**|**A Survey of Uncertainty Estimation Methods on Large Language Models**|Zhiqiu Xia et.al.|[2503.00172](http://arxiv.org/abs/2503.00172)|null|
+|**2025-02-28**|**Conformal Risk Control for Semantic Uncertainty Quantification in Computed Tomography**|Jacopo Teneggi et.al.|[2503.00136](http://arxiv.org/abs/2503.00136)|null|
 |**2025-02-27**|**When does a predictor know its own loss?**|Aravind Gollakota et.al.|[2502.20375](http://arxiv.org/abs/2502.20375)|null|
 |**2025-02-27**|**Similarity-Distance-Magnitude Universal Verification**|Allen Schmaltz et.al.|[2502.20167](http://arxiv.org/abs/2502.20167)|null|
 |**2025-02-27**|**Convergence Guarantees of Model-free Policy Gradient Methods for LQR with Stochastic Data**|Bowen Song et.al.|[2502.19977](http://arxiv.org/abs/2502.19977)|null|
@@ -4428,7 +4485,7 @@
 |**2025-02-20**|**Early-Exit and Instant Confidence Translation Quality Estimation**|Vilém Zouhar et.al.|[2502.14429](http://arxiv.org/abs/2502.14429)|**[link](https://github.com/zouharvi/COMET-early-exit)**|
 |**2025-02-20**|**Correcting Noisy Multilabel Predictions: Modeling Label Noise through Latent Space Shifts**|Weipeng Huang et.al.|[2502.14281](http://arxiv.org/abs/2502.14281)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
