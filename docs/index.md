@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4252,6 +4252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646](http://arxiv.org/abs/2503.05646)|null|
+|**2025-03-07**|**Learning and generalization of robotic dual-arm manipulation of boxes from demonstrations via Gaussian Mixture Models (GMMs)**|Qian Ying Lee et.al.|[2503.05619](http://arxiv.org/abs/2503.05619)|null|
+|**2025-03-07**|**Design, Dynamic Modeling and Control of a 2-DOF Robotic Wrist Actuated by Twisted and Coiled Actuators**|Yunsong Zhang et.al.|[2503.05508](http://arxiv.org/abs/2503.05508)|null|
+|**2025-03-07**|**CoinRobot: Generalized End-to-end Robotic Learning for Physical Intelligence**|Yu Zhao et.al.|[2503.05316](http://arxiv.org/abs/2503.05316)|null|
+|**2025-03-07**|**A Helping (Human) Hand in Kinematic Structure Estimation**|Adrian Pfisterer et.al.|[2503.05301](http://arxiv.org/abs/2503.05301)|null|
+|**2025-03-07**|**Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction**|Shuo Jiang et.al.|[2503.05231](http://arxiv.org/abs/2503.05231)|null|
+|**2025-03-07**|**Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments**|Xibai Wang et.al.|[2503.05226](http://arxiv.org/abs/2503.05226)|null|
+|**2025-03-07**|**Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects**|Justin Yu et.al.|[2503.05189](http://arxiv.org/abs/2503.05189)|null|
+|**2025-03-07**|**Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation**|Tong Mu et.al.|[2503.05114](http://arxiv.org/abs/2503.05114)|null|
+|**2025-03-07**|**Can Large Language Models Grasp Concepts in Visual Content? A Case Study on YouTube Shorts about Depression**|Jiaying "Lizzy" Liu et.al.|[2503.05109](http://arxiv.org/abs/2503.05109)|null|
 |**2025-03-04**|**MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation**|Michal Nazarczuk et.al.|[2503.02834](http://arxiv.org/abs/2503.02834)|null|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
 |**2025-03-04**|**Velocity-free task-space regulator for robot manipulators with external disturbances**|Haiwen Wu et.al.|[2503.02634](http://arxiv.org/abs/2503.02634)|null|
@@ -4287,6 +4297,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Spatial Distillation based Distribution Alignment (SDDA) for Cross-Headset EEG Classification**|Dingkun Liu et.al.|[2503.05349](http://arxiv.org/abs/2503.05349)|null|
+|**2025-03-07**|**Similarity-Based Domain Adaptation with LLMs**|Jie He et.al.|[2503.05281](http://arxiv.org/abs/2503.05281)|null|
+|**2025-03-07**|**Partial Distribution Alignment via Adaptive Optimal Transport**|Pei Yang et.al.|[2503.05087](http://arxiv.org/abs/2503.05087)|null|
+|**2025-03-06**|**Leveraging Domain Knowledge at Inference Time for LLM Translation: Retrieval versus Generation**|Bryan Li et.al.|[2503.05010](http://arxiv.org/abs/2503.05010)|null|
+|**2025-03-06**|**HyDA: Hypernetworks for Test Time Domain Adaptation in Medical Imaging Analysis**|Doron Serebro et.al.|[2503.04979](http://arxiv.org/abs/2503.04979)|null|
+|**2025-03-06**|**PSDNorm: Test-Time Temporal Normalization for Deep Learning on EEG Signals**|Théo Gnassounou et.al.|[2503.04582](http://arxiv.org/abs/2503.04582)|null|
+|**2025-03-05**|**COARSE: Collaborative Pseudo-Labeling with Coarse Real Labels for Off-Road Semantic Segmentation**|Aurelio Noca et.al.|[2503.03947](http://arxiv.org/abs/2503.03947)|null|
+|**2025-03-05**|**DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles**|Rui Zhao et.al.|[2503.03651](http://arxiv.org/abs/2503.03651)|**[link](https://github.com/showlab/doracycle)**|
+|**2025-03-06**|**Intermediate Domain-guided Adaptation for Unsupervised Chorioallantoic Membrane Vessel Segmentation**|Pengwu Song et.al.|[2503.03546](http://arxiv.org/abs/2503.03546)|**[link](https://github.com/pwsong-ustc/ida)**|
+|**2025-03-05**|**Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection for Single-shot Multi-Parametric Mapping Reconstruction**|Linyu Fan et.al.|[2503.03475](http://arxiv.org/abs/2503.03475)|**[link](https://github.com/flyannie/fps)**|
 |**2025-03-04**|**Robust Multi-Source Domain Adaptation under Label Shift**|Congbin Xu et.al.|[2503.02506](http://arxiv.org/abs/2503.02506)|null|
 |**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
 |**2025-03-03**|**Robustness to Geographic Distribution Shift using Location Encoders**|Ruth Crasto et.al.|[2503.02036](http://arxiv.org/abs/2503.02036)|null|
@@ -4318,6 +4338,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**MIDAS: Modeling Ground-Truth Distributions with Dark Knowledge for Domain Generalized Stereo Matching**|Peng Xu et.al.|[2503.04376](http://arxiv.org/abs/2503.04376)|null|
+|**2025-03-06**|**When Claims Evolve: Evaluating and Enhancing the Robustness of Embedding Models Against Misinformation Edits**|Jabez Magomere et.al.|[2503.03417](http://arxiv.org/abs/2503.03417)|null|
+|**2025-03-05**|**Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments**|Hanyu Duan et.al.|[2503.03399](http://arxiv.org/abs/2503.03399)|null|
 |**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
 |**2025-03-03**|**Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**|Yiming Wang et.al.|[2503.01422](http://arxiv.org/abs/2503.01422)|null|
 |**2025-03-03**|**Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting**|Xiaobin Hong et.al.|[2503.01157](http://arxiv.org/abs/2503.01157)|null|
@@ -4348,6 +4371,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
+|**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
+|**2025-03-07**|**Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions**|Chan hur et.al.|[2503.05186](http://arxiv.org/abs/2503.05186)|null|
+|**2025-03-07**|**Visual Cues of Gender and Race are Associated with Stereotyping in Vision-Language Models**|Messi H. J. Lee et.al.|[2503.05093](http://arxiv.org/abs/2503.05093)|null|
+|**2025-03-07**|**Perceiving, Reasoning, Adapting: A Dual-Layer Framework for VLM-Guided Precision Robotic Manipulation**|Qingxuan Jia et.al.|[2503.05064](http://arxiv.org/abs/2503.05064)|null|
+|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982](http://arxiv.org/abs/2503.04982)|null|
+|**2025-03-06**|**Fine-Tuning Florence2 for Enhanced Object Detection in Un-constructed Environments: Vision-Language Model Approach**|Soumyadeep Ro et.al.|[2503.04918](http://arxiv.org/abs/2503.04918)|null|
+|**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
+|**2025-03-06**|**A Benchmark for Multi-Lingual Vision-Language Learning in Remote Sensing Image Captioning**|Qing Zhou et.al.|[2503.04592](http://arxiv.org/abs/2503.04592)|null|
+|**2025-03-06**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al.|[2503.04504](http://arxiv.org/abs/2503.04504)|null|
 |**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
 |**2025-03-04**|**"What If Smart Homes Could See Our Homes?": Exploring DIY Smart Home Building Experiences with VLM-Based Camera Sensors**|Sojeong Yun et.al.|[2503.02816](http://arxiv.org/abs/2503.02816)|null|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
@@ -4383,6 +4416,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620](http://arxiv.org/abs/2503.05620)|null|
+|**2025-03-07**|**Soft Policy Optimization: Online Off-Policy RL for Sequence Models**|Taco Cohen et.al.|[2503.05453](http://arxiv.org/abs/2503.05453)|null|
+|**2025-03-07**|**Unified Reward Model for Multimodal Understanding and Generation**|Yibin Wang et.al.|[2503.05236](http://arxiv.org/abs/2503.05236)|null|
+|**2025-03-07**|**Can Large Language Models Grasp Concepts in Visual Content? A Case Study on YouTube Shorts about Depression**|Jiaying "Lizzy" Liu et.al.|[2503.05109](http://arxiv.org/abs/2503.05109)|null|
+|**2025-03-07**|**On a Connection Between Imitation Learning and RLHF**|Teng Xiao et.al.|[2503.05079](http://arxiv.org/abs/2503.05079)|null|
+|**2025-03-06**|**Maximizing Signal in Human-Model Preference Alignment**|Kelsey Kraus et.al.|[2503.04910](http://arxiv.org/abs/2503.04910)|null|
+|**2025-03-06**|**Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment**|Wen Yang et.al.|[2503.04647](http://arxiv.org/abs/2503.04647)|null|
+|**2025-03-07**|**Adding Alignment Control to Language Models**|Wenhong Zhu et.al.|[2503.04346](http://arxiv.org/abs/2503.04346)|null|
+|**2025-03-09**|**DiffPO: Diffusion-styled Preference Optimization for Efficient Inference-Time Alignment of Large Language Models**|Ruizhe Chen et.al.|[2503.04240](http://arxiv.org/abs/2503.04240)|null|
+|**2025-03-06**|**FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion**|Ziyi Yang et.al.|[2503.04222](http://arxiv.org/abs/2503.04222)|null|
 |**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
 |**2025-03-04**|**AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**|Songming Zhang et.al.|[2503.02832](http://arxiv.org/abs/2503.02832)|null|
 |**2025-03-04**|**IterPref: Focal Preference Learning for Code Generation via Iterative Debugging**|Jie Wu et.al.|[2503.02783](http://arxiv.org/abs/2503.02783)|null|
@@ -4418,6 +4461,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274](http://arxiv.org/abs/2503.05274)|null|
+|**2025-03-07**|**L-FUSION: Laplacian Fetal Ultrasound Segmentation & Uncertainty Estimation**|Johanna P. Müller et.al.|[2503.05245](http://arxiv.org/abs/2503.05245)|null|
+|**2025-03-07**|**An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**|Changhong Lin et.al.|[2503.05088](http://arxiv.org/abs/2503.05088)|null|
+|**2025-03-06**|**Propagating Model Uncertainty through Filtering-based Probabilistic Numerical ODE Solvers**|Dingling Yao et.al.|[2503.04684](http://arxiv.org/abs/2503.04684)|null|
+|**2025-03-08**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
+|**2025-03-06**|**Conformal forecasting for surgical instrument trajectory**|Sara Sangalli et.al.|[2503.04191](http://arxiv.org/abs/2503.04191)|null|
+|**2025-03-05**|**Active operator learning with predictive uncertainty quantification for partial differential equations**|Nick Winovich et.al.|[2503.03178](http://arxiv.org/abs/2503.03178)|null|
+|**2025-03-05**|**StarFlow: Leveraging Normalizing Flows for Stellar Age Estimation in SDSS-V DR19**|Alexander Stone-Martinez et.al.|[2503.03138](http://arxiv.org/abs/2503.03138)|null|
+|**2025-03-04**|**LAPD: Langevin-Assisted Bayesian Active Learning for Physical Discovery**|Cindy Xiangrui Kong et.al.|[2503.02983](http://arxiv.org/abs/2503.02983)|null|
 |**2025-03-04**|**Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling**|Hang Zheng et.al.|[2503.02233](http://arxiv.org/abs/2503.02233)|null|
 |**2025-03-03**|**Data Augmentation for NeRFs in the Low Data Limit**|Ayush Gaggar et.al.|[2503.02092](http://arxiv.org/abs/2503.02092)|null|
 |**2025-03-04**|**Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints**|Sam Bowyer et.al.|[2503.01747](http://arxiv.org/abs/2503.01747)|null|
