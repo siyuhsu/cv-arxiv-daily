@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.26
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4252,6 +4252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**All-Optical High-speed Programmable Nonlinear Activation Functions using a Fabry-Perot Laser**|Mladen Banović et.al.|[2503.21603](http://arxiv.org/abs/2503.21603)|null|
+|**2025-03-27**|**Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming**|Viet-Anh Le et.al.|[2503.21548](http://arxiv.org/abs/2503.21548)|null|
+|**2025-03-27**|**OminiAdapt: Learning Cross-Task Invariance for Robust and Environment-Aware Robotic Manipulation**|Yongxu Wang et.al.|[2503.21257](http://arxiv.org/abs/2503.21257)|null|
+|**2025-03-27**|**TAGA: A Tangent-Based Reactive Approach for Socially Compliant Robot Navigation Around Human Groups**|Utsha Kumar Roy et.al.|[2503.21168](http://arxiv.org/abs/2503.21168)|null|
+|**2025-03-27**|**Safe Human Robot Navigation in Warehouse Scenario**|Seth Farrell et.al.|[2503.21141](http://arxiv.org/abs/2503.21141)|null|
+|**2025-03-26**|**Pellet-based 3D Printing of Soft Thermoplastic Elastomeric Membranes for Soft Robotic Applications**|Nick Willemstein et.al.|[2503.20957](http://arxiv.org/abs/2503.20957)|null|
+|**2025-03-26**|**Flying Vines: Design, Modeling, and Control of a Soft Aerial Robotic Arm**|Rianna Jitosho et.al.|[2503.20754](http://arxiv.org/abs/2503.20754)|null|
+|**2025-03-26**|**Decremental Dynamics Planning for Robot Navigation**|Yuanjie Lu et.al.|[2503.20521](http://arxiv.org/abs/2503.20521)|null|
+|**2025-03-26**|**Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation**|Kevin Alcedo et.al.|[2503.20425](http://arxiv.org/abs/2503.20425)|null|
+|**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
 |**2025-03-24**|**RoboEngine: Plug-and-Play Robot Data Augmentation with Semantic Robot Segmentation and Background Generation**|Chengbo Yuan et.al.|[2503.18738](http://arxiv.org/abs/2503.18738)|null|
 |**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[2503.18666](http://arxiv.org/abs/2503.18666)|null|
 |**2025-03-24**|**FF-SRL: High Performance GPU-Based Surgical Simulation For Robot Learning**|Diego Dall'Alba et.al.|[2503.18616](http://arxiv.org/abs/2503.18616)|null|
@@ -4327,6 +4337,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
+|**2025-03-27**|**Low-Resource Transliteration for Roman-Urdu and Urdu Using Transformer-Based Models**|Umer Butt et.al.|[2503.21530](http://arxiv.org/abs/2503.21530)|null|
+|**2025-03-27**|**HybridoNet-Adapt: A Domain-Adapted Framework for Accurate Lithium-Ion Battery RUL Prediction**|Khoa Tran et.al.|[2503.21392](http://arxiv.org/abs/2503.21392)|null|
+|**2025-03-26**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|null|
+|**2025-03-26**|**UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift**|Antoine Schieb et.al.|[2503.20653](http://arxiv.org/abs/2503.20653)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-25**|**Domain Adaptation Framework for Turning Movement Count Estimation with Limited Data**|Xiaobo Ma et.al.|[2503.20113](http://arxiv.org/abs/2503.20113)|null|
+|**2025-03-25**|**EventFly: Event Camera Perception from Ground to the Sky**|Lingdong Kong et.al.|[2503.19916](http://arxiv.org/abs/2503.19916)|null|
+|**2025-03-25**|**AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation**|Itay Nakash et.al.|[2503.19693](http://arxiv.org/abs/2503.19693)|null|
 |**2025-03-24**|**ClinText-SP and RigoBERTa Clinical: a new set of open resources for Spanish Clinical NLP**|Guillem García Subies et.al.|[2503.18594](http://arxiv.org/abs/2503.18594)|null|
 |**2025-03-24**|**Adapting Video Diffusion Models for Time-Lapse Microscopy**|Alexander Holmberg et.al.|[2503.18583](http://arxiv.org/abs/2503.18583)|null|
 |**2025-03-24**|**AfroXLMR-Social: Adapting Pre-trained Language Models for African Languages Social Media Text**|Tadesse Destaw Belay et.al.|[2503.18247](http://arxiv.org/abs/2503.18247)|null|
@@ -4398,7 +4417,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**|Luyao Tang et.al.|[2503.18695](http://arxiv.org/abs/2503.18695)|null|
+|**2025-03-26**|**Feature Modulation for Semi-Supervised Domain Generalization without Domain Labels**|Venuri Amarasinghe et.al.|[2503.20897](http://arxiv.org/abs/2503.20897)|null|
+|**2025-03-23**|**Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization**|Xiran Wang et.al.|[2503.18987](http://arxiv.org/abs/2503.18987)|null|
+|**2025-03-24**|**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**|Luyao Tang et.al.|[2503.18695](http://arxiv.org/abs/2503.18695)|**[link](https://github.com/lytang63/OCRT)**|
 |**2025-03-24**|**Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement**|Biwen Meng et.al.|[2503.18567](http://arxiv.org/abs/2503.18567)|null|
 |**2025-03-24**|**Explaining Domain Shifts in Language: Concept erasing for Interpretable Image Classification**|Zequn Zeng et.al.|[2503.18483](http://arxiv.org/abs/2503.18483)|null|
 |**2025-03-23**|**FisherTune: Fisher-Guided Robust Tuning of Vision Foundation Models for Domain Generalized Segmentation**|Dong Zhao et.al.|[2503.17940](http://arxiv.org/abs/2503.17940)|null|
@@ -4461,6 +4482,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|null|
+|**2025-03-27**|**BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding**|Shuming Liu et.al.|[2503.21483](http://arxiv.org/abs/2503.21483)|**[link](https://github.com/sming256/bolt)**|
+|**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435](http://arxiv.org/abs/2503.21435)|null|
+|**2025-03-27**|**Cultivating Game Sense for Yourself: Making VLMs Gaming Experts**|Wenxuan Lu et.al.|[2503.21263](http://arxiv.org/abs/2503.21263)|null|
+|**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/abs/2503.21227)|null|
+|**2025-03-27**|**VoxRep: Enhancing 3D Spatial Understanding in 2D Vision-Language Models via Voxel Representation**|Alan Dao et.al.|[2503.21214](http://arxiv.org/abs/2503.21214)|null|
+|**2025-03-27**|**FakeReasoning: Towards Generalizable Forgery Detection and Reasoning**|Yueying Gao et.al.|[2503.21210](http://arxiv.org/abs/2503.21210)|null|
+|**2025-03-27**|**VideoMix: Aggregating How-To Videos for Task-Oriented Learning**|Saelyne Yang et.al.|[2503.21130](http://arxiv.org/abs/2503.21130)|null|
+|**2025-03-27**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
 |**2025-03-25**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854](http://arxiv.org/abs/2503.18854)|null|
 |**2025-03-24**|**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**|Jeonghyeon Kim et.al.|[2503.18817](http://arxiv.org/abs/2503.18817)|null|
 |**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
@@ -4536,6 +4567,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|**[link](https://github.com/tulerfeng/video-r1)**|
+|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720](http://arxiv.org/abs/2503.21720)|null|
+|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|
+|**2025-03-27**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols**|Johannes Voigt et.al.|[2503.21601](http://arxiv.org/abs/2503.21601)|null|
+|**2025-03-26**|**Multi-head Reward Aggregation Guided by Entropy**|Xiaomin Li et.al.|[2503.20995](http://arxiv.org/abs/2503.20995)|null|
+|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783](http://arxiv.org/abs/2503.20783)|**[link](https://github.com/sail-sg/understand-r1-zero)**|
+|**2025-03-27**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
+|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|**[link](https://github.com/thu-coai/vpo)**|
+|**2025-03-26**|**GAPO: Learning Preferential Prompt through Generative Adversarial Policy Optimization**|Zhouhong Gu et.al.|[2503.20194](http://arxiv.org/abs/2503.20194)|null|
+|**2025-03-25**|**ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback**|Bohan Zhai et.al.|[2503.19988](http://arxiv.org/abs/2503.19988)|null|
 |**2025-03-24**|**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**|Yunhong Lu et.al.|[2503.18454](http://arxiv.org/abs/2503.18454)|null|
 |**2025-03-24**|**Latent Embedding Adaptation for Human Preference Alignment in Diffusion Planners**|Wen Zheng Terence Ng et.al.|[2503.18347](http://arxiv.org/abs/2503.18347)|null|
 |**2025-03-23**|**Mitigating Reward Over-Optimization in RLHF via Behavior-Supported Regularization**|Juntao Dai et.al.|[2503.18130](http://arxiv.org/abs/2503.18130)|null|
@@ -4611,6 +4652,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Probabilistic Functional Neural Networks**|Haixu Wang et.al.|[2503.21585](http://arxiv.org/abs/2503.21585)|null|
+|**2025-03-27**|**Sparse Bayesian Learning for Label Efficiency in Cardiac Real-Time MRI**|Felix Terhag et.al.|[2503.21443](http://arxiv.org/abs/2503.21443)|null|
+|**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|null|
+|**2025-03-26**|**Semi-supervised Node Importance Estimation with Informative Distribution Modeling for Uncertainty Regularization**|Yankai Chen et.al.|[2503.20697](http://arxiv.org/abs/2503.20697)|null|
+|**2025-03-26**|**Multi-agent Uncertainty-Aware Pessimistic Model-Based Reinforcement Learning for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2503.20462](http://arxiv.org/abs/2503.20462)|null|
+|**2025-03-26**|**A Framework for Uncertainty Estimation in Seismology Data Processing with Application to Extract Rayleigh Wave Dispersion Curves from Noise Cross-correlation Functions**|Ziye Yu et.al.|[2503.20460](http://arxiv.org/abs/2503.20460)|**[link](https://github.com/cangyeone/dispersion)**|
+|**2025-03-25**|**E-PINNs: Epistemic Physics-Informed Neural Networks**|Ashish S. Nair et.al.|[2503.19333](http://arxiv.org/abs/2503.19333)|null|
 |**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836](http://arxiv.org/abs/2503.18836)|null|
 |**2025-03-24**|**Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling**|Guillem Capellera et.al.|[2503.18589](http://arxiv.org/abs/2503.18589)|null|
 |**2025-03-24**|**Self-Reported Confidence of Large Language Models in Gastroenterology: Analysis of Commercial, Open-Source, and Quantized Models**|Nariman Naderi et.al.|[2503.18562](http://arxiv.org/abs/2503.18562)|null|
