@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.26
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -41,7 +41,7 @@ layout: default
 |**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764](http://arxiv.org/abs/2501.12764)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841](http://arxiv.org/abs/2501.11841)|null|
-|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|**[link](https://github.com/TUMFTM/OpenLiDARMap)**|
 |**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950](http://arxiv.org/abs/2501.10950)|null|
 |**2025-01-23**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600](http://arxiv.org/abs/2501.09600)|null|
 |**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490](http://arxiv.org/abs/2501.09490)|null|
@@ -2993,7 +2993,7 @@ layout: default
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/abs/2409.09829)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
-|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|**[link](https://github.com/chen-hangyu/Thermal-Gaussian-main)**|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|**[link](https://github.com/ubc-vision/lsenerf)**|
@@ -4412,7 +4412,7 @@ layout: default
 |**2025-04-17**|**Unsupervised Cross-Domain 3D Human Pose Estimation via Pseudo-Label-Guided Global Transforms**|Jingjing Liu et.al.|[2504.12699](http://arxiv.org/abs/2504.12699)|null|
 |**2025-04-17**|**Collaborative Perception Datasets for Autonomous Driving: A Review**|Naibang Wang et.al.|[2504.12696](http://arxiv.org/abs/2504.12696)|null|
 |**2025-04-17**|**MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation**|Haris Riaz et.al.|[2504.12563](http://arxiv.org/abs/2504.12563)|null|
-|**2025-04-16**|**Analysis of Pseudo-Labeling for Online Source-Free Universal Domain Adaptation**|Pascal Schlachter et.al.|[2504.11992](http://arxiv.org/abs/2504.11992)|null|
+|**2025-04-16**|**Analysis of Pseudo-Labeling for Online Source-Free Universal Domain Adaptation**|Pascal Schlachter et.al.|[2504.11992](http://arxiv.org/abs/2504.11992)|**[link](https://github.com/pascalschlachter/planalysis)**|
 |**2025-04-16**|**Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**|Weiqiang Jiao et.al.|[2504.11873](http://arxiv.org/abs/2504.11873)|null|
 |**2025-04-15**|**Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation**|Amirhossein Dadashzadeh et.al.|[2504.11669](http://arxiv.org/abs/2504.11669)|null|
 |**2025-04-17**|**Multi-output Classification Framework and Frequency Layer Normalization for Compound Fault Diagnosis in Motor**|Wonjun Yi et.al.|[2504.11513](http://arxiv.org/abs/2504.11513)|null|
@@ -4586,7 +4586,7 @@ layout: default
 |**2025-03-17**|**Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation**|Xingguo Lv et.al.|[2503.13012](http://arxiv.org/abs/2503.13012)|null|
 |**2025-03-18**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|**[link](https://github.com/thunlp/deepperception)**|
 |**2025-03-16**|**Domain Generalization for Improved Human Activity Recognition in Office Space Videos Using Adaptive Pre-processing**|Partho Ghosh et.al.|[2503.12678](http://arxiv.org/abs/2503.12678)|null|
-|**2025-03-15**|**TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification**|Ans Munir et.al.|[2503.12206](http://arxiv.org/abs/2503.12206)|null|
+|**2025-03-15**|**TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification**|Ans Munir et.al.|[2503.12206](http://arxiv.org/abs/2503.12206)|**[link](https://github.com/ans92/tlac)**|
 |**2025-03-13**|**The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory**|Robin Schmucker et.al.|[2503.10533](http://arxiv.org/abs/2503.10533)|null|
 |**2025-03-13**|**Handling Domain Shifts for Anomalous Sound Detection: A Review of DCASE-Related Work**|Kevin Wilkinghoff et.al.|[2503.10435](http://arxiv.org/abs/2503.10435)|null|
 |**2025-03-13**|**A Hybrid Architecture with Efficient Fine Tuning for Abstractive Patent Document Summarization**|Nevidu Jayatilleke et.al.|[2503.10354](http://arxiv.org/abs/2503.10354)|null|
@@ -4640,7 +4640,7 @@ layout: default
 |**2025-04-23**|**DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs**|Zhenhailong Wang et.al.|[2504.17040](http://arxiv.org/abs/2504.17040)|null|
 |**2025-04-24**|**V $^2$ R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Zhiyuan Fan et.al.|[2504.16727](http://arxiv.org/abs/2504.16727)|null|
 |**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Joan Perez et.al.|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
-|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|**[link](https://github.com/facebookresearch/perception_models)**|
 |**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/abs/2504.13169)|**[link](https://github.com/tsunghan-wu/reverse_vlm)**|
 |**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Xinsong Zhang et.al.|[2504.13123](http://arxiv.org/abs/2504.13123)|null|
 |**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120](http://arxiv.org/abs/2504.13120)|null|
