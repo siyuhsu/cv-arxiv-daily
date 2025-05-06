@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4252,6 +4252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube**|Pengda Mao et.al.|[2505.01380](http://arxiv.org/abs/2505.01380)|null|
+|**2025-05-02**|**Dual-Forecaster: A Multimodal Time Series Model Integrating Descriptive and Predictive Texts**|Wenfa Wu et.al.|[2505.01135](http://arxiv.org/abs/2505.01135)|null|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
+|**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
+|**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935](http://arxiv.org/abs/2505.00935)|null|
+|**2025-05-01**|**Design, Integration, and Evaluation of a Dual-Arm Robotic System for High Throughput Tissue Sampling from Potato Tubers**|Divyanth L. G. et.al.|[2505.00774](http://arxiv.org/abs/2505.00774)|null|
+|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
+|**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
+|**2025-05-01**|**GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty**|Sirui Chen et.al.|[2505.00647](http://arxiv.org/abs/2505.00647)|null|
 |**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
 |**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
 |**2025-04-29**|**Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors**|Norah K. Alghamdi et.al.|[2504.20947](http://arxiv.org/abs/2504.20947)|null|
@@ -4406,6 +4416,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**VTS-LLM: Domain-Adaptive LLM Agent for Enhancing Awareness in Vessel Traffic Services through Natural Language**|Sijin Sun et.al.|[2505.00989](http://arxiv.org/abs/2505.00989)|null|
+|**2025-05-01**|**DARTer: Dynamic Adaptive Representation Tracker for Nighttime UAV Tracking**|Xuzhao Li et.al.|[2505.00752](http://arxiv.org/abs/2505.00752)|null|
+|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533](http://arxiv.org/abs/2505.00533)|null|
+|**2025-05-02**|**Towards Space Group Determination from EBSD Patterns: The Role of Deep Learning and High-throughput Dynamical Simulations**|Alfred Yan et.al.|[2504.21331](http://arxiv.org/abs/2504.21331)|null|
+|**2025-04-30**|**CMD: Constraining Multimodal Distribution for Domain Adaptation in Stereo Matching**|Zhelun Shen et.al.|[2504.21302](http://arxiv.org/abs/2504.21302)|null|
 |**2025-04-29**|**LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains**|Giuseppe De Giacomo et.al.|[2504.20983](http://arxiv.org/abs/2504.20983)|null|
 |**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
 |**2025-04-29**|**Learning and Generalization with Mixture Data**|Harsh Vardhan et.al.|[2504.20651](http://arxiv.org/abs/2504.20651)|null|
@@ -4547,6 +4563,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**|Zhaoyang Ma et.al.|[2505.01168](http://arxiv.org/abs/2505.01168)|null|
+|**2025-05-01**|**Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior**|Timo P. Gros et.al.|[2505.00439](http://arxiv.org/abs/2505.00439)|null|
+|**2025-04-30**|**Adapting In-Domain Few-Shot Segmentation to New Domains without Retraining**|Qi Fan et.al.|[2504.21414](http://arxiv.org/abs/2504.21414)|null|
+|**2025-04-30**|**IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing**|Shijun Zhou et.al.|[2504.21385](http://arxiv.org/abs/2504.21385)|null|
+|**2025-04-29**|**General vector auxiliary differential equation finite-difference time-domain method for rotationally symmetric vector wave propagation in nonlinear optics**|Caleb J. Grimms et.al.|[2504.21201](http://arxiv.org/abs/2504.21201)|null|
+|**2025-04-29**|**Graph Synthetic Out-of-Distribution Exposure with Large Language Models**|Haoyan Xu et.al.|[2504.21198](http://arxiv.org/abs/2504.21198)|null|
+|**2025-04-29**|**A Brief Review for Compression and Transfer Learning Techniques in DeepFake Detection**|Andreas Karathanasis et.al.|[2504.21066](http://arxiv.org/abs/2504.21066)|null|
+|**2025-04-29**|**Token-Level Prompt Mixture with Parameter-Free Routing for Federated Domain Generalization**|Shuai Gong et.al.|[2504.21063](http://arxiv.org/abs/2504.21063)|null|
 |**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|null|
 |**2025-04-29**|**Style-Adaptive Detection Transformer for Single-Source Domain Generalized Object Detection**|Jianhong Han et.al.|[2504.20498](http://arxiv.org/abs/2504.20498)|null|
 |**2025-04-28**|**Benchmarking Transferability: A Framework for Fair and Robust Evaluation**|Alireza Kazemi et.al.|[2504.20121](http://arxiv.org/abs/2504.20121)|null|
@@ -4657,6 +4681,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages**|Marco Salmè et.al.|[2505.01096](http://arxiv.org/abs/2505.01096)|null|
+|**2025-05-02**|**Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation**|Daniele Molino et.al.|[2505.01091](http://arxiv.org/abs/2505.01091)|null|
+|**2025-05-02**|**Transferable Adversarial Attacks on Black-Box Vision-Language Models**|Kai Hu et.al.|[2505.01050](http://arxiv.org/abs/2505.01050)|null|
+|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
+|**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
+|**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527](http://arxiv.org/abs/2505.00527)|null|
+|**2025-05-01**|**LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**|Zhijie Qiao et.al.|[2505.00284](http://arxiv.org/abs/2505.00284)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
+|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[2505.00156](http://arxiv.org/abs/2505.00156)|null|
 |**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
 |**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
 |**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
@@ -4812,6 +4846,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**E-Graphs With Bindings**|Aleksei Tiurin et.al.|[2505.00807](http://arxiv.org/abs/2505.00807)|null|
+|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
+|**2025-05-01**|**Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments**|Kirtan Rajesh et.al.|[2505.00668](http://arxiv.org/abs/2505.00668)|null|
+|**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530](http://arxiv.org/abs/2505.00530)|null|
+|**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
+|**2025-04-30**|**Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications**|Wenhan Dong et.al.|[2505.00049](http://arxiv.org/abs/2505.00049)|null|
+|**2025-04-30**|**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**|Xiaoxi Li et.al.|[2504.21776](http://arxiv.org/abs/2504.21776)|null|
+|**2025-04-30**|**Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math**|Haoran Xu et.al.|[2504.21233](http://arxiv.org/abs/2504.21233)|null|
+|**2025-04-29**|**CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks**|Rui Wang et.al.|[2504.21228](http://arxiv.org/abs/2504.21228)|null|
+|**2025-04-29**|**Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions**|Bhavini Jeloka et.al.|[2504.21164](http://arxiv.org/abs/2504.21164)|null|
 |**2025-04-29**|**Reinforcement Learning for LLM Reasoning Under Memory Constraints**|Alan Lee et.al.|[2504.20834](http://arxiv.org/abs/2504.20834)|null|
 |**2025-04-29**|**A Teacher-Student MPC-PPO Coupled Reinforcement Learning Framework for Winter Temperature Control of Solar Greenhouses in Northern China**|Jingxin Yu et.al.|[2504.20815](http://arxiv.org/abs/2504.20815)|null|
 |**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|null|
@@ -4967,13 +5011,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Improving Group Fairness in Knowledge Distillation via Laplace Approximation of Early Exits**|Edvin Fasth et.al.|[2505.01070](http://arxiv.org/abs/2505.01070)|null|
 |**2025-04-29**|**Bayesian Optimization-based Tire Parameter and Uncertainty Estimation for Real-World Data**|Sven Goblirsch et.al.|[2504.20863](http://arxiv.org/abs/2504.20863)|null|
-|**2025-04-28**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820](http://arxiv.org/abs/2504.19820)|null|
+|**2025-05-05**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820](http://arxiv.org/abs/2504.19820)|null|
 |**2025-04-25**|**Statistical Disaggregation -- a Monte Carlo Approach for Imputation under Constraints**|Shenggang Hu et.al.|[2504.18377](http://arxiv.org/abs/2504.18377)|null|
 |**2025-04-25**|**Unveiling 3D Ocean Biogeochemical Provinces: A Machine Learning Approach for Systematic Clustering and Validation**|Yvonne Jenniges et.al.|[2504.18181](http://arxiv.org/abs/2504.18181)|null|
 |**2025-04-24**|**Evaluating Uncertainty in Deep Gaussian Processes**|Matthijs van der Lende et.al.|[2504.17719](http://arxiv.org/abs/2504.17719)|null|
 |**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655](http://arxiv.org/abs/2504.17655)|null|
-|**2025-04-30**|**Conditional Diffusion-Based Retrieval of Atmospheric CO2 from Earth Observing Spectroscopy**|William R. Keely et.al.|[2504.17074](http://arxiv.org/abs/2504.17074)|null|
+|**2025-05-01**|**Conditional Diffusion-Based Retrieval of Atmospheric CO2 from Earth Observing Spectroscopy**|William R. Keely et.al.|[2504.17074](http://arxiv.org/abs/2504.17074)|null|
 |**2025-04-22**|**Last-layer committee machines for uncertainty estimations of benthic imagery**|H. Martin Gillis et.al.|[2504.16952](http://arxiv.org/abs/2504.16952)|null|
 |**2025-04-23**|**Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator**|Chenhao Li et.al.|[2504.16680](http://arxiv.org/abs/2504.16680)|null|
 |**2025-04-21**|**Active Learning Methods for Efficient Data Utilization and Model Performance Enhancement**|Chiung-Yi Tseng et.al.|[2504.16136](http://arxiv.org/abs/2504.16136)|null|
