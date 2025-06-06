@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4252,6 +4252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
+|**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
+|**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|
+|**2025-06-04**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al.|[2506.03863](http://arxiv.org/abs/2506.03863)|null|
+|**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-04**|**Spatial Understanding from Videos: Structured Prompts Meet Simulation Data**|Haoyu Zhang et.al.|[2506.03642](http://arxiv.org/abs/2506.03642)|null|
+|**2025-06-04**|**Training Cross-Morphology Embodied AI Agents: From Practical Challenges to Theoretical Foundations**|Shaoshan Liu et.al.|[2506.03613](http://arxiv.org/abs/2506.03613)|null|
+|**2025-06-04**|**SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models**|Meng Li et.al.|[2506.03574](http://arxiv.org/abs/2506.03574)|null|
+|**2025-06-04**|**SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models**|Arnab Debnath et.al.|[2506.03516](http://arxiv.org/abs/2506.03516)|null|
 |**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|**[link](https://github.com/kyunnilee/visual_puzzles)**|
 |**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
 |**2025-05-29**|**Humanoid Loco-manipulation Planning based on Graph Search and Reachability Maps**|Masaki Murooka et.al.|[2505.23505](http://arxiv.org/abs/2505.23505)|null|
@@ -4466,6 +4476,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
+|**2025-06-05**|**macOSWorld: A Multilingual Interactive Benchmark for GUI Agents**|Pei Yang et.al.|[2506.04135](http://arxiv.org/abs/2506.04135)|null|
+|**2025-06-04**|**Efficient Data Selection for Domain Adaptation of ASR Using Pseudo-Labels and Multi-Stage Filtering**|Pradeep Rangappa et.al.|[2506.03681](http://arxiv.org/abs/2506.03681)|null|
+|**2025-06-04**|**Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning**|Daeun Lee et.al.|[2506.03525](http://arxiv.org/abs/2506.03525)|null|
+|**2025-06-04**|**Target Semantics Clustering via Text Representations for Robust Universal Domain Adaptation**|Weinan He et.al.|[2506.03521](http://arxiv.org/abs/2506.03521)|null|
+|**2025-06-03**|**FlowerTune: A Cross-Domain Benchmark for Federated Fine-Tuning of Large Language Models**|Yan Gao et.al.|[2506.02961](http://arxiv.org/abs/2506.02961)|null|
+|**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
+|**2025-06-03**|**Theoretical Performance Guarantees for Partial Domain Adaptation via Partial Optimal Transport**|Jayadev Naram et.al.|[2506.02712](http://arxiv.org/abs/2506.02712)|null|
+|**2025-06-03**|**A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction**|Shiyu Shen et.al.|[2506.02654](http://arxiv.org/abs/2506.02654)|null|
+|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|null|
 |**2025-05-29**|**Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation**|Juncheol Shin et.al.|[2505.23651](http://arxiv.org/abs/2505.23651)|**[link](https://github.com/ewsn1593/hdrq)**|
 |**2025-05-29**|**PCA for Enhanced Cross-Dataset Generalizability in Breast Ultrasound Tumor Segmentation**|Christian Schmidt et.al.|[2505.23587](http://arxiv.org/abs/2505.23587)|null|
 |**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|**[link](https://github.com/zhengshuchen/samamba)**|
@@ -4663,6 +4683,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
+|**2025-06-04**|**OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation**|Aditya Gandhamal et.al.|[2506.03706](http://arxiv.org/abs/2506.03706)|null|
+|**2025-06-03**|**FlowerTune: A Cross-Domain Benchmark for Federated Fine-Tuning of Large Language Models**|Yan Gao et.al.|[2506.02961](http://arxiv.org/abs/2506.02961)|null|
+|**2025-06-02**|**Human Heterogeneity Invariant Stress Sensing**|Yi Xiao et.al.|[2506.02256](http://arxiv.org/abs/2506.02256)|null|
+|**2025-06-01**|**Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation**|Jacob K. Christopher et.al.|[2506.01121](http://arxiv.org/abs/2506.01121)|null|
+|**2025-05-31**|**GuideX: Guided Synthetic Data Generation for Zero-Shot Information Extraction**|Neil De La Fuente et.al.|[2506.00649](http://arxiv.org/abs/2506.00649)|null|
+|**2025-05-30**|**Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction**|Shuai Liu et.al.|[2505.24597](http://arxiv.org/abs/2505.24597)|null|
+|**2025-05-30**|**A Flat Minima Perspective on Understanding Augmentations and Model Robustness**|Weebum Yoo et.al.|[2505.24592](http://arxiv.org/abs/2505.24592)|null|
+|**2025-05-30**|**VUDG: A Dataset for Video Understanding Domain Generalization**|Ziyi Wang et.al.|[2505.24346](http://arxiv.org/abs/2505.24346)|null|
+|**2025-05-30**|**RCCDA: Adaptive Model Updates in the Presence of Concept Drift under a Constrained Resource Budget**|Adam Piaseczny et.al.|[2505.24149](http://arxiv.org/abs/2505.24149)|null|
 |**2025-05-29**|**Pseudo Multi-Source Domain Generalization: Bridging the Gap Between Single and Multi-Source Domain Generalization**|Shohei Enomoto et.al.|[2505.23173](http://arxiv.org/abs/2505.23173)|**[link](https://github.com/s-enmt/pseudodomainbed)**|
 |**2025-05-28**|**IRS: Incremental Relationship-guided Segmentation for Digital Pathology**|Ruining Deng et.al.|[2505.22855](http://arxiv.org/abs/2505.22855)|null|
 |**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465](http://arxiv.org/abs/2505.22465)|null|
@@ -4828,6 +4858,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-04**|**LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward**|Yi Zhao et.al.|[2506.04070](http://arxiv.org/abs/2506.04070)|null|
+|**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039](http://arxiv.org/abs/2506.04039)|null|
+|**2025-06-04**|**Vocabulary-free few-shot learning for Vision-Language Models**|Maxime Zanella et.al.|[2506.04005](http://arxiv.org/abs/2506.04005)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-04**|**Spatial Understanding from Videos: Structured Prompts Meet Simulation Data**|Haoyu Zhang et.al.|[2506.03642](http://arxiv.org/abs/2506.03642)|null|
+|**2025-06-04**|**VLMs Can Aggregate Scattered Training Patches**|Zhanhui Zhou et.al.|[2506.03614](http://arxiv.org/abs/2506.03614)|null|
+|**2025-06-04**|**BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance**|Huy Le et.al.|[2506.03589](http://arxiv.org/abs/2506.03589)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
 |**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|**[link](https://github.com/kyunnilee/visual_puzzles)**|
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
@@ -5043,6 +5083,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
+|**2025-06-04**|**SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models**|Yuhao Wu et.al.|[2506.04180](http://arxiv.org/abs/2506.04180)|null|
+|**2025-06-04**|**LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward**|Yi Zhao et.al.|[2506.04070](http://arxiv.org/abs/2506.04070)|null|
+|**2025-06-04**|**Crowd-SFT: Crowdsourcing for LLM Alignment**|Alex Sotiropoulos et.al.|[2506.04063](http://arxiv.org/abs/2506.04063)|null|
+|**2025-06-04**|**Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning**|Qing Jiang et.al.|[2506.04034](http://arxiv.org/abs/2506.04034)|null|
+|**2025-06-04**|**PPO in the Fisher-Rao geometry**|Razvan-Andrei Lascu et.al.|[2506.03757](http://arxiv.org/abs/2506.03757)|null|
+|**2025-06-04**|**Misalignment or misuse? The AGI alignment tradeoff**|Max Hellrigel-Holderbaum et.al.|[2506.03755](http://arxiv.org/abs/2506.03755)|null|
+|**2025-06-04**|**Robust Preference Optimization via Dynamic Target Margins**|Jie Sun et.al.|[2506.03690](http://arxiv.org/abs/2506.03690)|null|
+|**2025-06-04**|**RewardAnything: Generalizable Principle-Following Reward Models**|Zhuohao Yu et.al.|[2506.03637](http://arxiv.org/abs/2506.03637)|null|
+|**2025-06-04**|**Joint Beamforming and Resource Allocation for Delay Optimization in RIS-Assisted OFDM Systems: A DRL Approach**|Yu Ma et.al.|[2506.03586](http://arxiv.org/abs/2506.03586)|null|
 |**2025-05-29**|**Differential Information: An Information-Theoretic Perspective on Preference Optimization**|Yunjae Won et.al.|[2505.23761](http://arxiv.org/abs/2505.23761)|null|
 |**2025-05-29**|**Distortion of AI Alignment: Does Preference Optimization Optimize for Preferences?**|Paul Gölz et.al.|[2505.23749](http://arxiv.org/abs/2505.23749)|null|
 |**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
@@ -5258,6 +5308,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**|Chaeyun Jang et.al.|[2506.03723](http://arxiv.org/abs/2506.03723)|null|
+|**2025-06-03**|**Trusted Fake Audio Detection Based on Dirichlet Distribution**|Chi Ding et.al.|[2506.02401](http://arxiv.org/abs/2506.02401)|null|
+|**2025-06-03**|**Discovery of Probabilistic Dirichlet-to-Neumann Maps on Graphs**|Adrienne M. Propp et.al.|[2506.02337](http://arxiv.org/abs/2506.02337)|null|
+|**2025-06-02**|**Efficient Manipulation-Enhanced Semantic Mapping With Uncertainty-Informed Action Selection**|Nils Dengler et.al.|[2506.02286](http://arxiv.org/abs/2506.02286)|null|
+|**2025-06-02**|**WHEN TO ACT, WHEN TO WAIT: Modeling Structural Trajectories for Intent Triggerability in Task-Oriented Dialogue**|Yaoyao Qian et.al.|[2506.01881](http://arxiv.org/abs/2506.01881)|**[link](https://github.com/H-Freax/Storm)**|
+|**2025-06-01**|**Trick or Neat: Adversarial Ambiguity and Language Model Evaluation**|Antonia Karamolegkou et.al.|[2506.01205](http://arxiv.org/abs/2506.01205)|null|
+|**2025-06-01**|**ChemAU: Harness the Reasoning of LLMs in Chemical Research with Adaptive Uncertainty Estimation**|Xinyi Liu et.al.|[2506.01116](http://arxiv.org/abs/2506.01116)|null|
+|**2025-06-01**|**Reconsidering LLM Uncertainty Estimation Methods in the Wild**|Yavuz Bakman et.al.|[2506.01114](http://arxiv.org/abs/2506.01114)|null|
+|**2025-06-01**|**Principled Input-Output-Conditioned Post-Hoc Uncertainty Estimation for Regression Networks**|Lennart Bramlage et.al.|[2506.00918](http://arxiv.org/abs/2506.00918)|null|
+|**2025-05-31**|**Uncertainty-Aware Genomic Classification of Alzheimer's Disease: A Transformer-Based Ensemble Approach with Monte Carlo Dropout**|Taeho Jo et.al.|[2506.00662](http://arxiv.org/abs/2506.00662)|null|
 |**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448](http://arxiv.org/abs/2505.23448)|null|
 |**2025-05-29**|**GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning**|Jusheng Zhang et.al.|[2505.23399](http://arxiv.org/abs/2505.23399)|null|
 |**2025-05-29**|**Daunce: Data Attribution through Uncertainty Estimation**|Xingyuan Pan et.al.|[2505.23223](http://arxiv.org/abs/2505.23223)|null|
