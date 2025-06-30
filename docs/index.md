@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5554,7 +5554,7 @@ layout: default
 |**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
 |**2025-04-22**|**Bayesian Autoencoder for Medical Anomaly Detection: Uncertainty-Aware Approach for Brain 2 MRI Analysis**|Dip Roy et.al.|[2504.15562](http://arxiv.org/abs/2504.15562)|null|
 |**2025-04-19**|**Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping**|Jose Marie Antonio Minoza et.al.|[2504.14372](http://arxiv.org/abs/2504.14372)|**[link](https://github.com/JomaMinoza/Ocean-Floor-Mapping-with-Uncertainty-Aware-Deep-Learning)**|
-|**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111](http://arxiv.org/abs/2504.13111)|null|
+|**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111](http://arxiv.org/abs/2504.13111)|**[link](https://github.com/kumarmanas/SHIFT)**|
 |**2025-04-17**|**Explainable AI in Usable Privacy and Security: Challenges and Opportunities**|Vincent Freiberger et.al.|[2504.12931](http://arxiv.org/abs/2504.12931)|null|
 |**2025-04-17**|**TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology**|Walid Rehamnia et.al.|[2504.12718](http://arxiv.org/abs/2504.12718)|null|
 |**2025-04-17**|**Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles**|Tirtha Vinchurkar et.al.|[2504.12627](http://arxiv.org/abs/2504.12627)|null|
