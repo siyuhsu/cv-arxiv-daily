@@ -1,4 +1,4 @@
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -828,7 +828,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## SFM
 
@@ -1169,7 +1169,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2219,7 +2219,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2500,7 +2500,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2795,7 +2795,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## NeRF
 
@@ -4272,12 +4272,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Robotics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410](http://arxiv.org/abs/2506.22410)|null|
+|**2025-06-27**|**KnotDLO: Toward Interpretable Knot Tying**|Holly Dinkel et.al.|[2506.22176](http://arxiv.org/abs/2506.22176)|null|
+|**2025-06-27**|**Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception**|Kejia Chen et.al.|[2506.22034](http://arxiv.org/abs/2506.22034)|null|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-26**|**The Spatiotemporal Organization of Motor Cortex Activity Supporting Manual Dexterity**|Nicholas Chehade et.al.|[2506.21738](http://arxiv.org/abs/2506.21738)|null|
+|**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
+|**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
+|**2025-06-26**|**ACTLLM: Action Consistency Tuned Large Language Model**|Jing Bi et.al.|[2506.21250](http://arxiv.org/abs/2506.21250)|null|
+|**2025-06-26**|**UAIbot: Beginner-friendly web-based simulator for interactive robotics learning and research**|Johnata Brayan et.al.|[2506.21178](http://arxiv.org/abs/2506.21178)|null|
+|**2025-06-26**|**Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions**|Zhuochen Miao et.al.|[2506.21057](http://arxiv.org/abs/2506.21057)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
 |**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
@@ -4528,12 +4538,22 @@
 |**2025-02-23**|**NatSGLD: A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in Natural Human-Robot Interaction**|Snehesh Shrestha et.al.|[2502.16718](http://arxiv.org/abs/2502.16718)|**[link](https://github.com/sneheshs/natsgld)**|
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**|YongKyung Oh et.al.|[2506.22393](http://arxiv.org/abs/2506.22393)|null|
+|**2025-06-27**|**Weakly-Supervised Domain Adaptation with Proportion-Constrained Pseudo-Labeling**|Takumi Okuo et.al.|[2506.22301](http://arxiv.org/abs/2506.22301)|null|
+|**2025-06-27**|**Seismic resolution enhancement via deep Learning with Knowledge Distillation and Domain Adaptation**|Hanpeng Cai et.al.|[2506.22018](http://arxiv.org/abs/2506.22018)|null|
+|**2025-06-27**|**Embodied Domain Adaptation for Object Detection**|Xiangyu Shi et.al.|[2506.21860](http://arxiv.org/abs/2506.21860)|null|
+|**2025-06-26**|**TITAN: Query-Token based Domain Adaptive Adversarial Learning**|Tajamul Ashraf et.al.|[2506.21484](http://arxiv.org/abs/2506.21484)|null|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
+|**2025-06-26**|**Unlocking Constraints: Source-Free Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2506.21198](http://arxiv.org/abs/2506.21198)|null|
+|**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165](http://arxiv.org/abs/2506.21165)|null|
+|**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
+|**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531](http://arxiv.org/abs/2506.20531)|null|
 |**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608](http://arxiv.org/abs/2506.19608)|null|
 |**2025-06-24**|**Progressive Modality Cooperation for Multi-Modality Domain Adaptation**|Weichen Zhang et.al.|[2506.19316](http://arxiv.org/abs/2506.19316)|null|
 |**2025-06-24**|**Self-Paced Collaborative and Adversarial Network for Unsupervised Domain Adaptation**|Weichen Zhang et.al.|[2506.19267](http://arxiv.org/abs/2506.19267)|null|
@@ -4767,15 +4787,21 @@
 |**2025-02-24**|**Image Translation-Based Unsupervised Cross-Modality Domain Adaptation for Medical Image Segmentation**|Tao Yang et.al.|[2502.15193](http://arxiv.org/abs/2502.15193)|null|
 |**2025-02-21**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Generalization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Exploring Task-Solving Paradigm for Generalized Cross-Domain Face Anti-Spoofing via Reinforcement Fine-Tuning**|Fangling Jiang et.al.|[2506.21895](http://arxiv.org/abs/2506.21895)|null|
+|**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
+|**2025-06-28**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
+|**2025-06-25**|**FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization**|Ha Min Son et.al.|[2506.20841](http://arxiv.org/abs/2506.20841)|null|
+|**2025-06-25**|**A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools**|Minh-Hao Van et.al.|[2506.20743](http://arxiv.org/abs/2506.20743)|null|
+|**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
 |**2025-06-22**|**Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction**|Rui An et.al.|[2506.18939](http://arxiv.org/abs/2506.18939)|null|
 |**2025-06-21**|**Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis**|Pengyu Han et.al.|[2506.17740](http://arxiv.org/abs/2506.17740)|null|
-|**2025-06-21**|**Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains**|Zhuo He et.al.|[2506.17718](http://arxiv.org/abs/2506.17718)|null|
+|**2025-06-28**|**Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains**|Zhuo He et.al.|[2506.17718](http://arxiv.org/abs/2506.17718)|null|
 |**2025-06-21**|**Domain Generalization using Action Sequences for Egocentric Action Recognition**|Amirshayan Nasirimajd et.al.|[2506.17685](http://arxiv.org/abs/2506.17685)|null|
 |**2025-06-20**|**On the Theory of Conditional Feature Alignment for Unsupervised Domain-Adaptive Counting**|Zhuonan Liang et.al.|[2506.17137](http://arxiv.org/abs/2506.17137)|null|
 |**2025-06-20**|**How Many Domains Suffice for Domain Generalization? A Tight Characterization via the Domain Shattering Dimension**|Cynthia Dwork et.al.|[2506.16704](http://arxiv.org/abs/2506.16704)|null|
@@ -4967,12 +4993,22 @@
 |**2025-02-17**|**Can Language Models Learn Typologically Implausible Languages?**|Tianyang Xu et.al.|[2502.12317](http://arxiv.org/abs/2502.12317)|null|
 |**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532](http://arxiv.org/abs/2502.11532)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
+|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395](http://arxiv.org/abs/2506.22395)|null|
+|**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
+|**2025-06-27**|**Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment**|Rui Xu et.al.|[2506.22283](http://arxiv.org/abs/2506.22283)|null|
+|**2025-06-27**|**COOCO -- Common Objects Out-of-Context -- Semantic Violation in Scenes: Investigating Multimodal Context in Referential Communication**|Filippo Merlo et.al.|[2506.22274](http://arxiv.org/abs/2506.22274)|null|
+|**2025-06-27**|**Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs**|Amirmohammad Izadi et.al.|[2506.22146](http://arxiv.org/abs/2506.22146)|null|
+|**2025-06-27**|**Universal Retrieval for Multimodal Trajectory Modeling**|Xuan Zhang et.al.|[2506.22056](http://arxiv.org/abs/2506.22056)|null|
+|**2025-06-27**|**Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2506.22032](http://arxiv.org/abs/2506.22032)|null|
+|**2025-06-27**|**SODA: Out-of-Distribution Detection in Domain-Shifted Point Clouds via Neighborhood Propagation**|Adam Goodge et.al.|[2506.21892](http://arxiv.org/abs/2506.21892)|null|
+|**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Johannes Rückert et.al.|[2506.19825](http://arxiv.org/abs/2506.19825)|null|
 |**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Hao Li et.al.|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
@@ -5224,12 +5260,22 @@
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
 |**2025-02-23**|**Can Large Vision-Language Models Detect Images Copyright Infringement from GenAI?**|Qipan Xu et.al.|[2502.16618](http://arxiv.org/abs/2502.16618)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Evaluating Scoring Bias in LLM-as-a-Judge**|Qingquan Li et.al.|[2506.22316](http://arxiv.org/abs/2506.22316)|null|
+|**2025-06-30**|**EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200](http://arxiv.org/abs/2506.22200)|null|
+|**2025-06-27**|**LeanConjecturer: Automatic Generation of Mathematical Conjectures for Theorem Proving**|Naoto Onda et.al.|[2506.22005](http://arxiv.org/abs/2506.22005)|null|
+|**2025-06-27**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
+|**2025-06-27**|**Exploring Task-Solving Paradigm for Generalized Cross-Domain Face Anti-Spoofing via Reinforcement Fine-Tuning**|Fangling Jiang et.al.|[2506.21895](http://arxiv.org/abs/2506.21895)|null|
+|**2025-06-27**|**Interactive Multi-Objective Probabilistic Preference Learning with Soft and Hard Bounds**|Edward Chen et.al.|[2506.21887](http://arxiv.org/abs/2506.21887)|null|
+|**2025-06-26**|**M3PO: Massively Multi-Task Model-Based Policy Optimization**|Aditya Narendra et.al.|[2506.21782](http://arxiv.org/abs/2506.21782)|null|
+|**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
+|**2025-06-26**|**Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs**|Yifan Shen et.al.|[2506.21656](http://arxiv.org/abs/2506.21656)|null|
+|**2025-06-26**|**Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments**|Jiashuo Wang et.al.|[2506.21497](http://arxiv.org/abs/2506.21497)|null|
 |**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
 |**2025-06-24**|**Multi-Preference Lambda-weighted Listwise DPO for Dynamic Preference Alignment**|Yuhui Sun et.al.|[2506.19780](http://arxiv.org/abs/2506.19780)|null|
 |**2025-06-24**|**Inference-Time Reward Hacking in Large Language Models**|Hadi Khalaf et.al.|[2506.19248](http://arxiv.org/abs/2506.19248)|null|
@@ -5481,18 +5527,21 @@
 |**2025-02-21**|**Rapid Online Learning of Hip Exoskeleton Assistance Preferences**|Giulia Ramella et.al.|[2502.15366](http://arxiv.org/abs/2502.15366)|null|
 |**2025-02-24**|**Projection Optimization: A General Framework for Multi-Objective and Multi-Group RLHF**|Nuoya Xiong et.al.|[2502.15145](http://arxiv.org/abs/2502.15145)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Calibration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**A Statistical Approach to Quantifying Uncertainty in Meteoroid Physical Properties**|Maximilian Vovk et.al.|[2506.21701](http://arxiv.org/abs/2506.21701)|null|
+|**2025-06-26**|**Real-Time ESFP: Estimating, Smoothing, Filtering, and Pose-Mapping**|Qifei Cui et.al.|[2506.21234](http://arxiv.org/abs/2506.21234)|null|
+|**2025-06-24**|**A Framework for Uncertainty Quantification Based on Nearest Neighbors Across Layers**|Miguel N. Font et.al.|[2506.19895](http://arxiv.org/abs/2506.19895)|null|
 |**2025-06-24**|**Cross-regularization: Adaptive Model Complexity through Validation Gradients**|Carlos Stein Brito et.al.|[2506.19755](http://arxiv.org/abs/2506.19755)|null|
 |**2025-06-24**|**Why Uncertainty Calibration Matters for Reliable Perturbation-based Explanations**|Thomas Decker et.al.|[2506.19630](http://arxiv.org/abs/2506.19630)|null|
 |**2025-06-24**|**Visual hallucination detection in large vision-language models via evidential conflict**|Tao Huang et.al.|[2506.19513](http://arxiv.org/abs/2506.19513)|null|
 |**2025-06-23**|**Quantifying Uncertainty in the Presence of Distribution Shifts**|Yuli Slavutsky et.al.|[2506.18283](http://arxiv.org/abs/2506.18283)|null|
 |**2025-06-22**|**Pitfalls of Conformal Predictions for Medical Image Classification**|Hendrik Mehrtens et.al.|[2506.18162](http://arxiv.org/abs/2506.18162)|null|
-|**2025-06-22**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872](http://arxiv.org/abs/2506.17872)|null|
+|**2025-06-28**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872](http://arxiv.org/abs/2506.17872)|null|
 |**2025-06-21**|**Learning Personalized Utility Functions for Drivers in Ride-hailing Systems Using Ensemble Hypernetworks**|Weiming Mai et.al.|[2506.17672](http://arxiv.org/abs/2506.17672)|null|
 |**2025-06-21**|**Accelerating Residual Reinforcement Learning with Uncertainty Estimation**|Lakshita Dodeja et.al.|[2506.17564](http://arxiv.org/abs/2506.17564)|null|
 |**2025-06-20**|**UProp: Investigating the Uncertainty Propagation of LLMs in Multi-Step Agentic Decision-Making**|Jinhao Duan et.al.|[2506.17419](http://arxiv.org/abs/2506.17419)|null|
@@ -5700,7 +5749,7 @@
 |**2025-02-20**|**Early-Exit and Instant Confidence Translation Quality Estimation**|Vilém Zouhar et.al.|[2502.14429](http://arxiv.org/abs/2502.14429)|**[link](https://github.com/zouharvi/COMET-early-exit)**|
 |**2025-02-20**|**Correcting Noisy Multilabel Predictions: Modeling Label Noise through Latent Space Shifts**|Weipeng Huang et.al.|[2502.14281](http://arxiv.org/abs/2502.14281)|**[link](https://github.com/huangweipeng7/lsnpc)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
