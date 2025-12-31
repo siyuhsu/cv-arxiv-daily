@@ -1,4 +1,4 @@
-## Updated on 2025.12.29
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -828,7 +828,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## SFM
 
@@ -1169,7 +1169,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2219,7 +2219,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2500,7 +2500,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2795,7 +2795,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## NeRF
 
@@ -4272,7 +4272,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Robotics
 
@@ -4578,7 +4578,7 @@
 |**2025-02-23**|**NatSGLD: A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in Natural Human-Robot Interaction**|Snehesh Shrestha et.al.|[2502.16718](http://arxiv.org/abs/2502.16718)|**[link](https://github.com/sneheshs/natsgld)**|
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Adaptation
 
@@ -4862,7 +4862,7 @@
 |**2025-02-24**|**Image Translation-Based Unsupervised Cross-Modality Domain Adaptation for Medical Image Segmentation**|Tao Yang et.al.|[2502.15193](http://arxiv.org/abs/2502.15193)|null|
 |**2025-02-21**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Generalization
 
@@ -5097,7 +5097,7 @@
 |**2025-02-17**|**Can Language Models Learn Typologically Implausible Languages?**|Tianyang Xu et.al.|[2502.12317](http://arxiv.org/abs/2502.12317)|null|
 |**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532](http://arxiv.org/abs/2502.11532)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## VLM
 
@@ -5404,7 +5404,7 @@
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
 |**2025-02-23**|**Can Large Vision-Language Models Detect Images Copyright Infringement from GenAI?**|Qipan Xu et.al.|[2502.16618](http://arxiv.org/abs/2502.16618)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Alignment
 
@@ -5711,7 +5711,7 @@
 |**2025-02-21**|**Rapid Online Learning of Hip Exoskeleton Assistance Preferences**|Giulia Ramella et.al.|[2502.15366](http://arxiv.org/abs/2502.15366)|null|
 |**2025-02-24**|**Projection Optimization: A General Framework for Multi-Objective and Multi-Group RLHF**|Nuoya Xiong et.al.|[2502.15145](http://arxiv.org/abs/2502.15145)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Calibration
 
@@ -5961,7 +5961,7 @@
 |**2025-02-20**|**Early-Exit and Instant Confidence Translation Quality Estimation**|Vilém Zouhar et.al.|[2502.14429](http://arxiv.org/abs/2502.14429)|**[link](https://github.com/zouharvi/COMET-early-exit)**|
 |**2025-02-20**|**Correcting Noisy Multilabel Predictions: Modeling Label Noise through Latent Space Shifts**|Weipeng Huang et.al.|[2502.14281](http://arxiv.org/abs/2502.14281)|**[link](https://github.com/huangweipeng7/lsnpc)**|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
